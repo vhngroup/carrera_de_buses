@@ -1,5 +1,5 @@
 # Carrera de buses
-[Carrera](https://github.com/vhngroup/carrera_de_buses/blob/main/media/carrera_de_Buses.png) |
+![Carrera](https://github.com/vhngroup/carrera_de_buses/blob/main/media/carrera_de_Buses.png)
 Este es un ejemplo de logica de programación usando POO, clases, funciones y staticmethod
 
 * Usando la consola, simulamos una carrera de buses, donde gana Colombia.
